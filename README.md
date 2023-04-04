@@ -4,6 +4,10 @@ AIM:
 
 To perform various operations of multivariate analysis in the given dataset.
 
+ALGORITHM:
+
+A dataset is given , use that and perform the multivariate operations in the colab and get the output in graph models. 
+
 CODE:
 
 ```
